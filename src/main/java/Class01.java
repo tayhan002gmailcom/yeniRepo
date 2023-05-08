@@ -17,6 +17,7 @@ public class Class01 {
         //V6 için yanı çalışmalar...
         //V7
         //Github değişiklikleri
+        //Local'den sevgilerle...
 
 
 
