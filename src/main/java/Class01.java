@@ -19,6 +19,8 @@ public class Class01 {
         //Github değişiklikleri
         //Local'den sevgilerle...
 
+        //V8...
+
 
 
     }
